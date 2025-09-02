@@ -4,6 +4,7 @@ body {
   font-family: "Figtree", serif;
 }
 
+
 section {
   padding: 20px;
 }
@@ -17,6 +18,8 @@ hr {
 .navbar {
   padding: 10px;
   background: white;
+  display: flex;
+  justify-content: space-between;
 }
 
 .logo {
